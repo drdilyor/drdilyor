@@ -26,9 +26,9 @@ session = requests.Session()
 session.headers['Authorization'] = f'token {token}'
 repo_url = f'{base_url}/repos/{repo}'
 
-readme_request = session.get(f'{repo_url}/contents/README.md')
-assert readme_request.ok
-readme_json = readme_request.json()
+readme_res = session.get(f'{repo_url}/contents/README.md')
+assert readme_res.ok
+readme_json = readme_res.json()
 readme = base64.b64decode(readme_json['content']).decode('utf-8')
 readme_sha = readme_json['sha']
 
@@ -39,9 +39,9 @@ if match := re.search(
 else:
     game = MasterMind()
 
-issue_request = session.get(f'{repo_url}/issues/{issue_number}')
-assert issue_request.ok
-issue = issue_request.json()
+issue_res = session.get(f'{repo_url}/issues/{issue_number}')
+assert issue_res.ok
+issue = issue_res.json()
 
 
 def answer(message):
@@ -105,7 +105,7 @@ def new_issue_url(title):
 
 
 def select_url(position: int, color: int):  # noqa
-    return new_issue_url(f'mastermind:select:{position}{color}')
+    return new_issue_url(f'mastermind:select:{position}:{color}')
 
 
 readme_template = jinja_env.get_template('README.template.md')
@@ -132,3 +132,7 @@ readme_new_res = session.put(f'{repo_url}/contents/README.md', json={
 assert readme_new_res.ok, readme_new_res.json()
 
 answer(f'Done. Return <a href="https://github.com/{repo}">back</a> to continue')
+issue_close_res = session.patch(f'{repo_url}/issues/{issue_number}', json={
+    'state': 'closed',
+})
+assert issue_close_res.ok, issue_close_res.json()

@@ -5,6 +5,7 @@
 - **A**: Correct color and position
 - **B**: Correct color but wrong position
 
+History
 <table>
 <tr>
 <th>1</th>
@@ -12,6 +13,19 @@
 <th>3</th>
 <th>4</th>
 <th>A / B</th>
+</tr>
+
+<tr>
+
+<td>🟡</td>
+
+<td>🟡</td>
+
+<td>🟡</td>
+
+<td>🟡</td>
+
+<td>1 / 0</td>
 </tr>
 
 <tr>
@@ -91,7 +105,7 @@
 
 <td>
 
-&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A02&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A0%3A2&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
 🟠
 </a>&nbsp;&nbsp;
 
@@ -99,7 +113,7 @@
 
 <td>
 
-&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A12&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A1%3A2&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
 🟠
 </a>&nbsp;&nbsp;
 
@@ -107,7 +121,7 @@
 
 <td>
 
-&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A22&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A2%3A2&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
 🟠
 </a>&nbsp;&nbsp;
 
@@ -115,7 +129,7 @@
 
 <td>
 
-&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A32&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A3%3A2&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
 🟠
 </a>&nbsp;&nbsp;
 
@@ -127,7 +141,7 @@
 
 <td>
 
-&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A03&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A0%3A3&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
 🔴
 </a>&nbsp;&nbsp;
 
@@ -135,7 +149,7 @@
 
 <td>
 
-&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A13&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A1%3A3&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
 🔴
 </a>&nbsp;&nbsp;
 
@@ -143,7 +157,7 @@
 
 <td>
 
-&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A23&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A2%3A3&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
 🔴
 </a>&nbsp;&nbsp;
 
@@ -151,7 +165,7 @@
 
 <td>
 
-&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A33&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A3%3A3&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
 🔴
 </a>&nbsp;&nbsp;
 
@@ -163,7 +177,7 @@
 
 <td>
 
-&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A04&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A0%3A4&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
 🟣
 </a>&nbsp;&nbsp;
 
@@ -171,7 +185,7 @@
 
 <td>
 
-&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A14&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A1%3A4&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
 🟣
 </a>&nbsp;&nbsp;
 
@@ -179,7 +193,7 @@
 
 <td>
 
-&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A24&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A2%3A4&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
 🟣
 </a>&nbsp;&nbsp;
 
@@ -187,7 +201,7 @@
 
 <td>
 
-&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A34&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A3%3A4&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
 🟣
 </a>&nbsp;&nbsp;
 
@@ -199,7 +213,7 @@
 
 <td>
 
-&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A05&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A0%3A5&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
 🔵
 </a>&nbsp;&nbsp;
 
@@ -207,7 +221,7 @@
 
 <td>
 
-&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A15&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A1%3A5&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
 🔵
 </a>&nbsp;&nbsp;
 
@@ -215,7 +229,7 @@
 
 <td>
 
-&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A25&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A2%3A5&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
 🔵
 </a>&nbsp;&nbsp;
 
@@ -223,7 +237,7 @@
 
 <td>
 
-&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A35&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A3%3A5&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
 🔵
 </a>&nbsp;&nbsp;
 
@@ -235,7 +249,7 @@
 
 <td>
 
-&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A06&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A0%3A6&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
 🟢
 </a>&nbsp;&nbsp;
 
@@ -243,7 +257,7 @@
 
 <td>
 
-&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A16&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A1%3A6&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
 🟢
 </a>&nbsp;&nbsp;
 
@@ -251,7 +265,7 @@
 
 <td>
 
-&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A26&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A2%3A6&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
 🟢
 </a>&nbsp;&nbsp;
 
@@ -259,7 +273,7 @@
 
 <td>
 
-&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A36&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A3%3A6&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
 🟢
 </a>&nbsp;&nbsp;
 
@@ -285,6 +299,6 @@ Also, I *love* automation.
 [![Drdilyor's GitHub stats](https://github-readme-stats.vercel.app/api?username=drdilyor&show_icons=1&&theme=vue&hide_title=1&hide_border=1&border_radius=0)](https://github.com/drdilyor)
 <!--
 GAME_SAVED_STATE
-{"thought": [1, 6, 6, 2], "current": [1, 1, 1, 1], "history": [{"colors": [1, 1, 1, 1], "correct_color": 0, "correct_position": 1}, {"colors": [1, 1, 1, 1], "correct_color": 0, "correct_position": 1}], "won": false}
+{"thought": [1, 6, 6, 2], "current": [1, 1, 1, 1], "history": [{"colors": [1, 1, 1, 1], "correct_color": 0, "correct_position": 1}, {"colors": [1, 1, 1, 1], "correct_color": 0, "correct_position": 1}, {"colors": [1, 1, 1, 1], "correct_color": 0, "correct_position": 1}], "won": false}
 END_GAME_SAVED_STATE
 -->

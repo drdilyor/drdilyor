@@ -1,63 +1,290 @@
 ![Greatings, Earthling!](drdilyor.png)
 
-```python
-@singleton
-class Drdilyor(Programmer[FULL_STACK]):
-    full_name = 'Dilyorbek Valijonov'
-    level = JUNIOR
-    backend = DJANGO
-    frontend = VUEJS
-    database = POSTGRES
-    languages = (
-        PYTHON,
-        JAVASCRIPT,
-        TYPESCRIPT,
-    )
-    other_skills = (
-        BOOTSTRAP,
-        JQUERY,
+**Why not play mastermind while you are here?**
 
-        FLASK,
-        FASTAPI,  # ⚡️
-        GRAPHQL,
-        DOCKER,  # 🐋
-        KUBERNETES,
-        AWS,  # basic
-        LINUX,  # power user
-        SHELL_SCRIPTING,
+- **A**: Correct color and position
+- **B**: Correct color but wrong position
 
-        TELEGRAM_API,
-        FIREBASE,  # 🔥
-    )
-    country = 'Uzbekistan 🇺🇿'
-    
-    currently_learning = (
-        NUXT,
-        CI_CD,
-        AWS,
-        NGINX,
-    )
-    struggling_to_understand = AWS
-    ultimate_editor = VIM
-    email = '<drdilyor at outlook dot com>'
-```
+<table>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>A / B</th>
+</tr>
+
+<tr>
+
+<td>🟡</td>
+
+<td>🟡</td>
+
+<td>🟡</td>
+
+<td>🟡</td>
+
+<td>1 / 0</td>
+</tr>
+
+<tr>
+
+<td>🟡</td>
+
+<td>🟡</td>
+
+<td>🟡</td>
+
+<td>🟡</td>
+
+<td>1 / 0</td>
+</tr>
+
+<tr>
+
+<td>🟡</td>
+
+<td>🟡</td>
+
+<td>🟡</td>
+
+<td>🟡</td>
+
+<td><strong>Current</strong> (<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Acommit&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">Commit</a>)</td>
+</tr>
+</table>
+
+
+
+<strong>Select colors</strong>
+<table>
+
+<tr>
+
+<td>
+
+\>🟡<
+
+</td>
+
+<td>
+
+\>🟡<
+
+</td>
+
+<td>
+
+\>🟡<
+
+</td>
+
+<td>
+
+\>🟡<
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A02&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+🟠
+</a>&nbsp;&nbsp;
+
+</td>
+
+<td>
+
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A12&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+🟠
+</a>&nbsp;&nbsp;
+
+</td>
+
+<td>
+
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A22&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+🟠
+</a>&nbsp;&nbsp;
+
+</td>
+
+<td>
+
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A32&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+🟠
+</a>&nbsp;&nbsp;
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A03&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+🔴
+</a>&nbsp;&nbsp;
+
+</td>
+
+<td>
+
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A13&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+🔴
+</a>&nbsp;&nbsp;
+
+</td>
+
+<td>
+
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A23&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+🔴
+</a>&nbsp;&nbsp;
+
+</td>
+
+<td>
+
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A33&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+🔴
+</a>&nbsp;&nbsp;
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A04&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+🟣
+</a>&nbsp;&nbsp;
+
+</td>
+
+<td>
+
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A14&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+🟣
+</a>&nbsp;&nbsp;
+
+</td>
+
+<td>
+
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A24&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+🟣
+</a>&nbsp;&nbsp;
+
+</td>
+
+<td>
+
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A34&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+🟣
+</a>&nbsp;&nbsp;
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A05&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+🔵
+</a>&nbsp;&nbsp;
+
+</td>
+
+<td>
+
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A15&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+🔵
+</a>&nbsp;&nbsp;
+
+</td>
+
+<td>
+
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A25&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+🔵
+</a>&nbsp;&nbsp;
+
+</td>
+
+<td>
+
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A35&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+🔵
+</a>&nbsp;&nbsp;
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A06&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+🟢
+</a>&nbsp;&nbsp;
+
+</td>
+
+<td>
+
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A16&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+🟢
+</a>&nbsp;&nbsp;
+
+</td>
+
+<td>
+
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A26&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+🟢
+</a>&nbsp;&nbsp;
+
+</td>
+
+<td>
+
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A36&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+🟢
+</a>&nbsp;&nbsp;
+
+</td>
+
+</tr>
+
+</table>
+
+[New game](https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Anew&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.)
 
 [![Telegram](https://badgen.net/badge/telegram/drdilyor/179cde?icon=telegram)](https://t.me/drdilyor)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=drdilyor)
 
 I'm a developer from Uzbekistan 🇺🇿.  People often find me
-under username 'drdilyor'.  I'm definitely good at learning new things
-(except AWS, of course).  🐞 I've got bitten by a language bug a little
-bit ago and now also getting hands dirty by challenging myself to write
-interpreters.
+under username 'drdilyor'.  I think I'm good at learning new things
+(except AWS, of course).
+
 Also, I *love* automation.
 
 > Imagine me doing awkward robot dance when you read this. AU-TO-MA-TION
 
-Also checkout My Own Programming Language/Interpreter [Loxothon] (awfully slow).
-
-[Loxothon]: https://github.com/drdilyor/loxothon
-
 [![Drdilyor's GitHub stats](https://github-readme-stats.vercel.app/api?username=drdilyor&show_icons=1&&theme=vue&hide_title=1&hide_border=1&border_radius=0)](https://github.com/drdilyor)
-
-
+<!--
+GAME_SAVED_STATE
+{"thought": [1, 6, 6, 2], "current": [1, 1, 1, 1], "history": [{"colors": [1, 1, 1, 1], "correct_color": 0, "correct_position": 1}, {"colors": [1, 1, 1, 1], "correct_color": 0, "correct_position": 1}], "won": false}
+END_GAME_SAVED_STATE
+-->

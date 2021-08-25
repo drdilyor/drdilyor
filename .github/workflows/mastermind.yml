@@ -1,0 +1,22 @@
+name: mastermind
+on:
+  issues:
+    types:
+      - opened
+jobs:
+  mastermind:
+    runs-on: ubuntu-latest
+    if: startsWith(github.event.issue.title, 'mastermind:')
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+      - name: Install dependencies
+        run: pip install requests jinja2
+      - name: Mastermind
+        env:
+          REPOSITORY: ${{ github.repository }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python mastermind/actions.py

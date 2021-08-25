@@ -1,11 +1,13 @@
 import enum
-from abc import ABC, abstractmethod
-from dataclasses import dataclass
 import random
+from dataclasses import dataclass
 from typing import Any
 
 
 class Color(enum.Enum):
+    """
+    Count starts from 1 to avoid coercion bugs that *may* occur
+    """
     (
         RED,
         YELLOW,
@@ -68,14 +70,15 @@ class MasterMind:
     @classmethod
     def from_saved_state(cls, state: dict[str, Any]):
         obj = cls()
-        obj.thought = state['thought']
+        obj.thought = [Color._value2member_map_[i] for i in state['thought']]
         obj.current = [Color._value2member_map_[i] for i in state['current']]
         obj.history = [History.from_saved_state(i) for i in state['history']]
         obj.won = state['won']
+        return obj
 
     def save_state(self) -> dict[str, Any]:
         return {
-            'thought': self.thought,
+            'thought': [i.value for i in self.thought],
             'current': [i.value for i in self.current],
             'history': [i.save_state() for i in self.history],
             'won': self.won,

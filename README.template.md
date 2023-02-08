@@ -34,7 +34,9 @@ History
 
 {% if game.won %}
 <strong>Congratulations. You won :tada:</strong>
+
 [>New game<]({{ new_issue_url('mastermind:new') }})
+
 {% else %}
 <strong>Select colors</strong>
 <table>
@@ -54,6 +56,7 @@ History
 </tr>
 {% endfor %}
 </table>
+
 [New game]({{ new_issue_url('mastermind:new') }})
 {% endif %}
 

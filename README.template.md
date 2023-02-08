@@ -32,6 +32,10 @@ History
 
 
 
+{% if game.won %}
+<strong>Congratulations. You won :tada:</strong>
+[>New game<]({{ new_issue_url('mastermind:new') }})
+{% else %}
 <strong>Select colors</strong>
 <table>
 {% for i in range(1, 7) %}
@@ -50,8 +54,9 @@ History
 </tr>
 {% endfor %}
 </table>
-
 [New game]({{ new_issue_url('mastermind:new') }})
+{% endif %}
+
 
 [![Telegram](https://badgen.net/badge/telegram/drdilyor/179cde?icon=telegram)](https://t.me/drdilyor)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=drdilyor)

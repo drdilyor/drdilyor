@@ -263,6 +263,6 @@ Also, I *love* automation.
 [![Drdilyor's GitHub stats](https://github-readme-stats.vercel.app/api?username=drdilyor&show_icons=1&&theme=vue&hide_title=1&hide_border=1&border_radius=0)](https://github.com/drdilyor)
 <!--
 GAME_SAVED_STATE
-{"thought": [6, 6, 1, 2], "current": [1, 1, 1, 1], "history": [], "won": false}
+{"thought": [3, 5, 1, 4], "current": [1, 1, 1, 1], "history": [], "won": false}
 END_GAME_SAVED_STATE
 -->

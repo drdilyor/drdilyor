@@ -73,7 +73,7 @@ History
 
 <td>🔵</td>
 
-<td>🟢</td>
+<td>🟡</td>
 
 <td>🟣</td>
 
@@ -107,9 +107,7 @@ History
 
 <td>
 
-&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A2%3A1&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
-🟡
-</a>&nbsp;&nbsp;
+\>🟡<
 
 </td>
 
@@ -281,7 +279,9 @@ History
 
 <td>
 
-\>🟢<
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A2%3A6&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+🟢
+</a>&nbsp;&nbsp;
 
 </td>
 
@@ -315,6 +315,6 @@ Also, I *love* automation.
 [![Drdilyor's GitHub stats](https://github-readme-stats.vercel.app/api?username=drdilyor&show_icons=1&&theme=vue&hide_title=1&hide_border=1&border_radius=0)](https://github.com/drdilyor)
 <!--
 GAME_SAVED_STATE
-{"thought": [3, 5, 1, 4], "current": [3, 5, 6, 4], "history": [{"colors": [2, 3, 4, 5], "correct_color": 3, "correct_position": 0}, {"colors": [1, 2, 3, 6], "correct_color": 2, "correct_position": 0}, {"colors": [5, 1, 2, 4], "correct_color": 2, "correct_position": 1}, {"colors": [3, 5, 6, 4], "correct_color": 0, "correct_position": 3}], "won": false}
+{"thought": [3, 5, 1, 4], "current": [3, 5, 1, 4], "history": [{"colors": [2, 3, 4, 5], "correct_color": 3, "correct_position": 0}, {"colors": [1, 2, 3, 6], "correct_color": 2, "correct_position": 0}, {"colors": [5, 1, 2, 4], "correct_color": 2, "correct_position": 1}, {"colors": [3, 5, 6, 4], "correct_color": 0, "correct_position": 3}], "won": false}
 END_GAME_SAVED_STATE
 -->

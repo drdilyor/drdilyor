@@ -17,78 +17,13 @@ History
 
 <tr>
 
-<td>🟠</td>
-
-<td>🔴</td>
-
-<td>🟣</td>
-
-<td>🔵</td>
-
-<td>0 / 3</td>
-</tr>
-
-<tr>
+<td>🟡</td>
 
 <td>🟡</td>
 
-<td>🟠</td>
-
-<td>🔴</td>
-
-<td>🟢</td>
-
-<td>0 / 2</td>
-</tr>
-
-<tr>
-
-<td>🔵</td>
-
 <td>🟡</td>
 
-<td>🟠</td>
-
-<td>🟣</td>
-
-<td>1 / 2</td>
-</tr>
-
-<tr>
-
-<td>🔴</td>
-
-<td>🔵</td>
-
-<td>🟢</td>
-
-<td>🟣</td>
-
-<td>3 / 0</td>
-</tr>
-
-<tr>
-
-<td>🔴</td>
-
-<td>🔵</td>
-
 <td>🟡</td>
-
-<td>🟣</td>
-
-<td>4 / 0</td>
-</tr>
-
-<tr>
-
-<td>🔴</td>
-
-<td>🔵</td>
-
-<td>🟡</td>
-
-<td>🟣</td>
 
 <td><strong>Current</strong> (<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Acommit&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">Commit</a>)</td>
 </tr>
@@ -97,10 +32,220 @@ History
 
 
 
-<strong>Congratulations. You won :tada:</strong>
+<strong>Select colors</strong>
+<table>
 
-[>New game<](https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Anew&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.)
+<tr>
 
+<td>
+
+\>🟡<
+
+</td>
+
+<td>
+
+\>🟡<
+
+</td>
+
+<td>
+
+\>🟡<
+
+</td>
+
+<td>
+
+\>🟡<
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A0%3A2&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+🟠
+</a>&nbsp;&nbsp;
+
+</td>
+
+<td>
+
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A1%3A2&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+🟠
+</a>&nbsp;&nbsp;
+
+</td>
+
+<td>
+
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A2%3A2&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+🟠
+</a>&nbsp;&nbsp;
+
+</td>
+
+<td>
+
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A3%3A2&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+🟠
+</a>&nbsp;&nbsp;
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A0%3A3&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+🔴
+</a>&nbsp;&nbsp;
+
+</td>
+
+<td>
+
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A1%3A3&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+🔴
+</a>&nbsp;&nbsp;
+
+</td>
+
+<td>
+
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A2%3A3&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+🔴
+</a>&nbsp;&nbsp;
+
+</td>
+
+<td>
+
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A3%3A3&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+🔴
+</a>&nbsp;&nbsp;
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A0%3A4&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+🟣
+</a>&nbsp;&nbsp;
+
+</td>
+
+<td>
+
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A1%3A4&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+🟣
+</a>&nbsp;&nbsp;
+
+</td>
+
+<td>
+
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A2%3A4&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+🟣
+</a>&nbsp;&nbsp;
+
+</td>
+
+<td>
+
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A3%3A4&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+🟣
+</a>&nbsp;&nbsp;
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A0%3A5&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+🔵
+</a>&nbsp;&nbsp;
+
+</td>
+
+<td>
+
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A1%3A5&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+🔵
+</a>&nbsp;&nbsp;
+
+</td>
+
+<td>
+
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A2%3A5&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+🔵
+</a>&nbsp;&nbsp;
+
+</td>
+
+<td>
+
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A3%3A5&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+🔵
+</a>&nbsp;&nbsp;
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A0%3A6&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+🟢
+</a>&nbsp;&nbsp;
+
+</td>
+
+<td>
+
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A1%3A6&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+🟢
+</a>&nbsp;&nbsp;
+
+</td>
+
+<td>
+
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A2%3A6&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+🟢
+</a>&nbsp;&nbsp;
+
+</td>
+
+<td>
+
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A3%3A6&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+🟢
+</a>&nbsp;&nbsp;
+
+</td>
+
+</tr>
+
+</table>
+
+[New game](https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Anew&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.)
 
 
 
@@ -118,6 +263,6 @@ Also, I *love* automation.
 [![Drdilyor's GitHub stats](https://github-readme-stats.vercel.app/api?username=drdilyor&show_icons=1&&theme=vue&hide_title=1&hide_border=1&border_radius=0)](https://github.com/drdilyor)
 <!--
 GAME_SAVED_STATE
-{"thought": [3, 5, 1, 4], "current": [3, 5, 1, 4], "history": [{"colors": [2, 3, 4, 5], "correct_color": 3, "correct_position": 0}, {"colors": [1, 2, 3, 6], "correct_color": 2, "correct_position": 0}, {"colors": [5, 1, 2, 4], "correct_color": 2, "correct_position": 1}, {"colors": [3, 5, 6, 4], "correct_color": 0, "correct_position": 3}, {"colors": [3, 5, 1, 4], "correct_color": 0, "correct_position": 4}], "won": true}
+{"thought": [5, 4, 2, 3], "current": [1, 1, 1, 1], "history": [], "won": false}
 END_GAME_SAVED_STATE
 -->

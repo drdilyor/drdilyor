@@ -1,5 +1,3 @@
-![Greatings, Earthling!](drdilyor.png)
-
 **Why not play mastermind while you are here?**
 
 - **A**: Correct color and position
@@ -25,7 +23,20 @@ History
 
 <td>🟡</td>
 
-<td><strong>Current</strong> (<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Acommit&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">Commit</a>)</td>
+<td>0 / 1</td>
+</tr>
+
+<tr>
+
+<td>🔴</td>
+
+<td>🟡</td>
+
+<td>🟡</td>
+
+<td>🟡</td>
+
+<td><strong>Current</strong> (<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Acommit&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">Submit</a>)</td>
 </tr>
 </table>
 
@@ -247,22 +258,8 @@ History
 
 [New game](https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Anew&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.)
 
-
-
-[![Telegram](https://badgen.net/badge/telegram/drdilyor/179cde?icon=telegram)](https://t.me/drdilyor)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=drdilyor)
-
-I'm a developer from Uzbekistan 🇺🇿.  People often find me
-under username 'drdilyor'.  I think I'm good at learning new things
-(except AWS, of course).
-
-Also, I *love* automation.
-
-> Imagine me doing awkward robot dance when you read this. AU-TO-MA-TION
-
-[![Drdilyor's GitHub stats](https://github-readme-stats.vercel.app/api?username=drdilyor&show_icons=1&&theme=vue&hide_title=1&hide_border=1&border_radius=0)](https://github.com/drdilyor)
 <!--
 GAME_SAVED_STATE
-{"thought": [5, 4, 2, 3], "current": [3, 1, 1, 1], "history": [], "won": false}
+{"thought": [5, 4, 2, 3], "current": [3, 1, 1, 1], "history": [{"colors": [3, 1, 1, 1], "correct_color": 1, "correct_position": 0}], "won": false}
 END_GAME_SAVED_STATE
 -->

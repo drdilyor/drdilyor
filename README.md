@@ -34,7 +34,7 @@ History
 
 <td>🟡</td>
 
-<td>🟡</td>
+<td>🟣</td>
 
 <td><strong>Current</strong> (<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Acommit&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">Submit</a>)</td>
 </tr>
@@ -70,7 +70,9 @@ History
 
 <td>
 
-\>🟡<
+&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A3%3A1&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
+🟡
+</a>&nbsp;&nbsp;
 
 </td>
 
@@ -174,9 +176,7 @@ History
 
 <td>
 
-&nbsp;<a href="https://github.com/drdilyor/drdilyor/issues/new?title=mastermind%3Aselect%3A3%3A4&body=Just%20push%20%27Submit%20new%20issue%27%20and%20allow%20up%20to%2030%20seconds.">
-🟣
-</a>&nbsp;&nbsp;
+\>🟣<
 
 </td>
 
@@ -260,6 +260,6 @@ History
 
 <!--
 GAME_SAVED_STATE
-{"thought": [5, 4, 2, 3], "current": [3, 1, 1, 1], "history": [{"colors": [3, 1, 1, 1], "correct_color": 1, "correct_position": 0}], "won": false}
+{"thought": [5, 4, 2, 3], "current": [3, 1, 1, 4], "history": [{"colors": [3, 1, 1, 1], "correct_color": 1, "correct_position": 0}], "won": false}
 END_GAME_SAVED_STATE
 -->
